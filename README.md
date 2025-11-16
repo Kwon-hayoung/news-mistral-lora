@@ -10,11 +10,11 @@
 
 
 
-## 🤗 Hugging Face 모델
+## 📚 Fine-tuned Model
 
-| 모델 | 설명 | 링크 |
-|------|------|-------|
-| **Mistral LoRA (16bit merged)** | Unsloth로 파인튜닝 & 16bit 병합 완료 | 🔗 https://huggingface.co/HaGPT/mistral-lora-16bit |
+| 모델 | 학습 데이터셋 | 모델 링크 |
+|------|----------------|------------|
+| **Mistral LoRA (16bit merged)** | 🔗 https://huggingface.co/datasets/HaGPT/Political-Economy-Expert-QA | 🔗 https://huggingface.co/HaGPT/mistral-lora-16bit |
 
 
 
