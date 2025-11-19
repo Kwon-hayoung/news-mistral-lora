@@ -21,6 +21,7 @@
 
 ## 🤖 Gradio 기반 챗봇
 <img width="1688" height="495" alt="image" src="https://github.com/user-attachments/assets/1e66785f-31f8-469d-9e54-1b8d72d3e3a3" />
+
 | 모델 | 설명| Colab Notebook|
 | -----| ---- | --------------|
 | **Llama 3.1 (8B) – News Intelligence Chatbot** | 한국 정치·경제 뉴스 기반 도메인 지식을 탑재한 챗봇 | <a href="https://colab.research.google.com/drive/1muFqsKnUvQ-hI86JnzCBLXB5HoWhrYWZ#scrollTo=vZ3pXAb1C-Qn" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a> |
