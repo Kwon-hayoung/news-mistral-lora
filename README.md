@@ -1,9 +1,8 @@
 # 🦥 Unsloth 기반 LLM 파인튜닝 프로젝트
 
-
 ## 왜 파인튜닝을 하는가?
-- 왜 학습 시켜야 하는지
-- 어떤 도메인에 특화되어 있고 어떤 서비스에 특화된 모델인지
+- 왜 학습 시켜야 하는지 설명
+- 어떤 도메인에 특화되어 있고 어떤 서비스에 특화된 모델인지 설명
 
 ## 📌 주요 노트북
 
@@ -22,9 +21,9 @@
 ## 🤖 Gradio 기반 챗봇
 <img width="1688" height="495" alt="image" src="https://github.com/user-attachments/assets/1e66785f-31f8-469d-9e54-1b8d72d3e3a3" />
 
-## GPT 답변과 비교
-이미지 업로드 예정
-
 |Colab Notebook|
 |--------------|
 | <a href="https://colab.research.google.com/drive/1muFqsKnUvQ-hI86JnzCBLXB5HoWhrYWZ#scrollTo=vZ3pXAb1C-Qn" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a> |
+
+## GPT 답변과 비교
+이미지 업로드 예정
