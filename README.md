@@ -20,4 +20,4 @@
 
 
 ## 🤖 Streamlit 기반 챗봇
-<img width="100" height="25" alt="image" src="https://github.com/user-attachments/assets/f93d7c80-c56b-48ed-b9c1-c922a66d2b9c" />
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/f93d7c80-c56b-48ed-b9c1-c922a66d2b9c" />
