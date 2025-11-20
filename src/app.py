@@ -16,8 +16,18 @@ headers = {
 
 def query(payload):
     response = requests.post(API_URL, headers=headers, json=payload)
-    return response.json()
 
+    try:
+        # 정상 JSON 응답이면 그대로 반환
+        return response.json()
+    except Exception:
+        # JSON 파싱 실패 → 원본 텍스트와 상태코드를 반환
+        return {
+            "error": "JSON decode failed",
+            "status_code": response.status_code,
+            "raw_response": response.text
+        }
+        
 prompt = st.text_area("질문을 입력하세요:")
 
 if st.button("생성"):
@@ -25,4 +35,4 @@ if st.button("생성"):
         output = query({"inputs": prompt})
 
         st.write("### 응답:")
-        st.json(output)
+        st.json(output)   # raw_response가 JSON 형태로 안전하게 렌더링됨
