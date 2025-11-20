@@ -1,8 +1,13 @@
 # 🦥 Unsloth 기반 LLM 파인튜닝 프로젝트
 
 ## 왜 파인튜닝을 하는가?
-- 왜 학습 시켜야 하는지 설명
-- 어떤 도메인에 특화되어 있고 어떤 서비스에 특화된 모델인지 설명
+- 본 프로젝트는 정치·경제·거시 분석처럼 일반 LLM이 다루기 어려운 전문 분야 답변의 정확성을 높이기 위해 수행
+- 정책 분석, 환율 구조 분석, 지정학·통화정책 해석 등 특정 도메인에 최적화
+- 전문 분석가 수준의 구조적 요약·질의응답을 수행하는 서비스 구축 목표
+
+## 대화
+LangChain의 ConversationBufferMemory로 모든 대화를 저장하여,
+모델이 과거 답변을 참조해 일관된 요약과 인사이트 추출을 수행하도록 구성 (코드 수정 예정)
 
 ## 📌 주요 노트북
 
@@ -19,11 +24,11 @@
 
 
 ## 🤖 Gradio 기반 챗봇
-<img width="1688" height="495" alt="image" src="https://github.com/user-attachments/assets/1e66785f-31f8-469d-9e54-1b8d72d3e3a3" />
+<img width="1510" height="930" alt="image" src="https://github.com/user-attachments/assets/3abf9b2b-b435-47aa-a026-2a03cb4f1911" />
 
 |Colab Notebook|
 |--------------|
-| <a href="https://colab.research.google.com/drive/1muFqsKnUvQ-hI86JnzCBLXB5HoWhrYWZ#scrollTo=vZ3pXAb1C-Qn" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a> |
+| <a href="https://colab.research.google.com/drive/1uwI85Cu3_tn9OfJbmpdzluHqGLOmSsnW#scrollTo=_mN6ocdPCWBi" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a> |
 
 ## GPT 답변과 비교
 이미지 업로드 예정
