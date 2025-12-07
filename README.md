@@ -31,5 +31,5 @@ LangChain의 ConversationBufferMemory로 대화를 저장하여,
 |--------------|
 | <a href="https://colab.research.google.com/drive/1uwI85Cu3_tn9OfJbmpdzluHqGLOmSsnW#scrollTo=_mN6ocdPCWBi" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a> |
 
-## GPT 답변과 비교
-이미지 업로드 예정
+## STT/TTS 기능 추가
+HF Space 업로드
