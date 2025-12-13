@@ -14,7 +14,7 @@ LangChain의 ConversationBufferMemory로 대화를 저장하여,
 
 | 모델 | 타입 | Colab 링크 |
 |------|------|------------|
-| **Llama 3.1 (8B) – Alpaca** | ToolScale 데이터셋 | <a href="https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-Alpaca.ipynb#scrollTo=iHjt_SMYsd3P" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a> |
+| **Llama 3.1 (8B) – Alpaca** | ToolScale 데이터셋 | <a href="https://colab.research.google.com/drive/1y4asnzW17B9zfuXnwyKyZNzjCS0katZg#scrollTo=91622afd" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a> |
 
 **<think>, <tool_call>, <tool_output> 등 특수 태그를 포함하여 모델에게 도구 사용 계획 및 구조적 추론 패턴을 학습**
 
