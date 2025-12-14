@@ -3,12 +3,14 @@
 ## Multi Agent 
 <img width="4901" height="1530" alt="image" src="https://github.com/user-attachments/assets/b10cbfa6-a2d6-4980-b596-f9e307d98342" />
 
-## 🤖 Gradio 챗봇
+## 🤖 Gradio 챗봇 (기존의 파인튜닝 Q/A 학습)
 <img width="1471" height="924" alt="image" src="https://github.com/user-attachments/assets/0b9cd341-03e1-4a54-ad1a-aca76976f637" />
 
-## 대화
-LangChain의 ConversationBufferMemory로 대화를 저장하여,
-모델이 과거 답변을 참조해 일관된 요약과 인사이트 추출을 수행하도록 구성
+## 🤖 Gradio 챗봇 (도구 사용을 판단하는 에이전트)
+
+
+## 뉴스는 왜 RAG 에 적합하지 않은가? 내 모델이 질문을 얼만큼 이해할 수 있을까?
+**<think>, <tool_call>, <tool_output> 등 특수 태그를 포함하여 모델에게 도구 사용 계획 및 구조적 추론 패턴을 학습**
 
 ## 📌 주요 노트북
 
